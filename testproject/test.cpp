@@ -5,7 +5,7 @@ int main() {
 	
 	bool which_color;
 
-	cout << 
+
 
 
 
