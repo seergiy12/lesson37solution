@@ -1,12 +1,12 @@
-#include <iostream>
+п»ї#include <iostream>
 
 using namespace std;
 
-// мишаа
+// РјРёС€Р°Р°
 int main() {
 
 	cout << "test.";
-	cout << "миша";
+	cout << "РјРёС€Р°";
 
 	return 0;
 }
