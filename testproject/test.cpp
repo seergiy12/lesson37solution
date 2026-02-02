@@ -1,12 +1,15 @@
-﻿#include <iostream>
+﻿#include "logic.h"
 
-using namespace std;
-
-// мишаа
 int main() {
+	int x, y;
+	
+	bool which_color;
 
-	cout << "test.";
-	cout << "миша";
+	cout << 
+
+
+
+
 
 	return 0;
 }
